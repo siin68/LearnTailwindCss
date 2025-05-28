@@ -4,7 +4,7 @@ import Button from './Button';
 const Header = () => {
     return (
         <div className='flex items-center justify-around p-4 text-black w-full '>
-            <Button children="CamTho" className='bg-yellow-500 hover:bg-yellow-600'/>
+            <Button children="Cam Tho" className='bg-yellow-500 hover:bg-yellow-600'/>
             <div className='flex space-x-4 items-center'>
                 <a href="">Home</a>
                 <a href="">Course</a>
